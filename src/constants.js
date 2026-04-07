@@ -5,22 +5,17 @@ import javascriptLogo from './assets/tech_logo/javascript.png';
 import reactjsLogo from './assets/tech_logo/reactjs.png';
 import tailwindcssLogo from './assets/tech_logo/tailwindcss.png';
 import bootstrapLogo from './assets/tech_logo/bootstrap.png';
-// import springbootLogo from './assets/tech_logo/springboot.png';
 import nodejsLogo from './assets/tech_logo/nodejs.png';
 import expressjsLogo from './assets/tech_logo/express.png';
 import mysqlLogo from './assets/tech_logo/mysql.png';
 import mongodbLogo from './assets/tech_logo/mongodb.png';
-// import firebaseLogo from './assets/tech_logo/firebase.png';
 import cLogo from './assets/tech_logo/c.png';
 import cppLogo from './assets/tech_logo/cpp.png';
-import javaLogo from './assets/tech_logo/java.png';
 import pythonLogo from './assets/tech_logo/python.png';
 import gitLogo from './assets/tech_logo/git.png';
 import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
 import postmanLogo from './assets/tech_logo/postman.png';
-// import figmaLogo from './assets/tech_logo/figma.png';
-import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
 import postgreLogo from './assets/tech_logo/postgre.png';
 
@@ -32,7 +27,6 @@ import SkillCraftTechnologyLogo from './assets/company_logo/SkillCraftTechnology
 // Education Section Logo's
 import BareillyCollegeLogo from './assets/education_logo/BareillyCollege_logo.png';
 import DLSLogo from './assets/education_logo/DLS_logo.png';
-// import vpsLogo from './assets/education_logo/vps_logo.png';
 
 // Project Section Logo's
 import JobBridgeLogo from './assets/work_logo/JobBridge_Logo.png';
@@ -60,12 +54,10 @@ export const SkillsInfo = [
   {
     title: 'Backend',
     skills: [
-      // { name: 'Springboot', logo: springbootLogo },
       { name: 'Node JS', logo: nodejsLogo },
       { name: 'Express JS', logo: expressjsLogo },
       { name: 'MySQL', logo: mysqlLogo },
       { name: 'MongoDB', logo: mongodbLogo },
-      // { name: 'Firebase', logo: firebaseLogo },
       { name: 'PostgreSQL', logo: postgreLogo },
     ],
   },
@@ -74,7 +66,6 @@ export const SkillsInfo = [
     skills: [
       { name: 'C', logo: cLogo },
       { name: 'C++', logo: cppLogo },
-      { name: 'Java', logo: javaLogo },
       { name: 'Python', logo: pythonLogo },
       { name: 'JavaScript', logo: javascriptLogo },
     ],
@@ -87,8 +78,6 @@ export const SkillsInfo = [
       { name: 'VS Code', logo: vscodeLogo },
       { name: 'Postman', logo: postmanLogo },
       { name: 'Vercel', logo: vercelLogo },
-      { name: 'Netlify', logo: netlifyLogo },
-      // { name: 'Figma', logo: figmaLogo },
     ],
   },
 ];
@@ -197,7 +186,7 @@ export const SkillsInfo = [
       image: ChatbotLogo,
       tags: ["Python", "API Key"],
       github: "https://github.com/taniya-gupta-95x/Google-Generative-AI-Chatbot-using-Python",
-      webapp: "https://csprep.netlify.app/",
+      webapp: "",
     },
     {
       id: 2,
@@ -207,7 +196,7 @@ export const SkillsInfo = [
       image: MyPortfolioLogo,
       tags: ["React JS", "TalwindCSS", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/taniya-gupta-95x/My-Portfolio-Website",
-      // webapp: "https://movie-recommendation-app-jet.vercel.app/",
+      // webapp: "",
     },
     {
       id: 3,
@@ -226,6 +215,7 @@ export const SkillsInfo = [
       image: WeatherAppLogo,
       tags: ["HTML5", "CSS3", "JavaScript", "OpenWeatherMap API"],
       github: "https://github.com/taniya-gupta-95x/Weather-App",
+      webapp: "https://weather-app-xbkp.vercel.app/",
     },
     {
       id: 5,
@@ -244,7 +234,6 @@ export const SkillsInfo = [
       image: MyPortfolioLogo,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "Payment Integration"],
       github: "https://github.com/taniya-gupta-95x/My-Portfolio-Website",
-      // webapp: "",
     },
     {
       id: 7,
@@ -254,7 +243,7 @@ export const SkillsInfo = [
       image: ImageSearchLogo,
       tags: ["React JS", "API", "Search Feature", "CSS", "Javascript"],
       github: "https://github.com/taniya-gupta-95x/Image-Search-App",
-      webapp: "https://imagsearch.netlify.app/",
+      webapp: "https://imagesearch-rho.vercel.app/",
     },
     {
       id: 8,
@@ -264,6 +253,6 @@ export const SkillsInfo = [
       image: removebgLogo,
       tags: ["React JS", "API", "Image Processing", "HTML", "CSS", "Javascript"],
       github: "https://github.com/taniya-gupta-95x/Image-Background-Remover",
-      webapp: "https://removeyourbg.netlify.app/",
+      webapp: "https://image-background-remover-neon.vercel.app/",
     },
   ];  
