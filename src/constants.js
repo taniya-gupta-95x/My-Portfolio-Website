@@ -196,7 +196,7 @@ export const SkillsInfo = [
       image: MyPortfolioLogo,
       tags: ["React JS", "TalwindCSS", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/taniya-gupta-95x/My-Portfolio-Website",
-      // webapp: "",
+      webapp: "https://myportfolio-ten-omega-22.vercel.app/",
     },
     {
       id: 3,
@@ -234,6 +234,7 @@ export const SkillsInfo = [
       image: MyPortfolioLogo,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "Payment Integration"],
       github: "https://github.com/taniya-gupta-95x/My-Portfolio-Website",
+      webapp: "https://myportfolio-ten-omega-22.vercel.app/",
     },
     {
       id: 7,
