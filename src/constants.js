@@ -36,7 +36,7 @@ import SalesDashboardLogo from './assets/work_logo/Sales Dashboard.png';
 import WeatherAppLogo from './assets/work_logo/WeatherApp.png';
 import SnakeGameLogo from './assets/work_logo/Snake Game.png';
 import ImageSearchLogo from './assets/work_logo/image_search.png';
-import removebgLogo from './assets/work_logo/Remove_bg.png';
+import removebgLogo from './assets/work_logo/remove_bg.png';
 
 
 export const SkillsInfo = [
