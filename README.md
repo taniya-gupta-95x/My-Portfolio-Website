@@ -5,7 +5,7 @@ This project showcases my skills, projects, and journey as a BCA graduate and as
 
 ## Live Demo
 
-🔗 (https://myportfolio-ten-omega-22.vercel.app/)
+🔗 
 
 ---
 
