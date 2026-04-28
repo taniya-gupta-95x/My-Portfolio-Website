@@ -12,12 +12,16 @@ import mongodbLogo from './assets/tech_logo/mongodb.png';
 import cLogo from './assets/tech_logo/c.png';
 import cppLogo from './assets/tech_logo/cpp.png';
 import pythonLogo from './assets/tech_logo/python.png';
+import excelLogo from './assets/tech_logo/excel.png';
+import powerbiLogo from './assets/tech_logo/powerbi.png';
+import jupyterLogo from './assets/tech_logo/jupyter.png';
 import gitLogo from './assets/tech_logo/git.png';
 import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
 import postmanLogo from './assets/tech_logo/postman.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
 import postgreLogo from './assets/tech_logo/postgre.png';
+import streamlitLogo from './assets/tech_logo/streamlit.png';
 
 // Experience Section Logo's
 import InternshipStudioLogo from './assets/company_logo/Internship Studio.png';
@@ -73,11 +77,15 @@ export const SkillsInfo = [
   {
     title: 'Tools',
     skills: [
+      { name: 'Excel', logo: excelLogo },
+      { name: 'PowerBI', logo: powerbiLogo },
       { name: 'Git', logo: gitLogo },
       { name: 'GitHub', logo: githubLogo },
       { name: 'VS Code', logo: vscodeLogo },
+      { name: 'Jupyter Notebook', logo: jupyterLogo },
       { name: 'Postman', logo: postmanLogo },
       { name: 'Vercel', logo: vercelLogo },
+      { name: 'Streamlit', logo: streamlitLogo },
     ],
   },
 ];
