@@ -22,6 +22,10 @@ import postmanLogo from './assets/tech_logo/postman.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
 import postgreLogo from './assets/tech_logo/postgre.png';
 import streamlitLogo from './assets/tech_logo/streamlit.png';
+import numpyLogo from './assets/tech_logo/numpy.png';
+import pandasLogo from './assets/tech_logo/pandas.png';
+import matplotlibLogo from './assets/tech_logo/matplotlib.png';
+import seabornLogo from './assets/tech_logo/seaborn.png';
 
 // Experience Section Logo's
 import InternshipStudioLogo from './assets/company_logo/Internship Studio.png';
@@ -41,6 +45,7 @@ import WeatherAppLogo from './assets/work_logo/WeatherApp.png';
 import SnakeGameLogo from './assets/work_logo/Snake Game.png';
 import ImageSearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
+import loanbiasdetectorLogo from './assets/work_logo/loandashboard.png';
 
 
 export const SkillsInfo = [
@@ -66,12 +71,16 @@ export const SkillsInfo = [
     ],
   },
   {
-    title: 'Languages',
+    title: 'Languages & Libraries',
     skills: [
       { name: 'C', logo: cLogo },
       { name: 'C++', logo: cppLogo },
       { name: 'Python', logo: pythonLogo },
       { name: 'JavaScript', logo: javascriptLogo },
+      { name: 'NumPy', logo: numpyLogo },
+      { name: 'Pandas', logo: pandasLogo },
+      { name: 'Matplotlib', logo: matplotlibLogo },
+      { name: 'Seaborn', logo: seabornLogo },
     ],
   },
   {
@@ -198,13 +207,13 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      title: "My Portfolio Website",
+      title: "AI Loan Bias Detector",
       description:
-        "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
-      image: MyPortfolioLogo,
-      tags: ["React JS", "TalwindCSS", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/taniya-gupta-95x/My-Portfolio-Website",
-      webapp: "https://myportfolio-ten-omega-22.vercel.app/",
+        "Automated decision systems in finance may introduce bias based on gender, income, education, or other demographic factors. This project detects and visualizes bias in loan approval datasets to ensure fairness.AI-powered system to detect and visualize bias in automated loan approval decisions. Built using Streamlit for the Google Solution Challenge under the Responsible AI theme.",
+      image: loanbiasdetectorLogo,
+      tags: ["Python", "Streamlit", "NumPy", "Pandas", "Matplotlib"],
+      github: "https://github.com/taniya-gupta-95x/Finance-AI-Loan-Bias-Detector",
+      webapp: "https://responsible-ai-loan-bias-detector-uwpcgpss2xzkikrzj4qwjp.streamlit.app/",
     },
     {
       id: 3,

@@ -15,7 +15,7 @@ I am a passionate and dedicated developer with a strong interest in:
 
 - Web Development (Frontend & Full Stack)
 - Data Analytics
-- Problem Solving (DSA in C++)
+- Problem Solving
 
 I enjoy building user-friendly, responsive, and modern web applications.
 
@@ -44,16 +44,7 @@ I enjoy building user-friendly, responsive, and modern web applications.
 ## Projects Included
 
 - Portfolio Website
-- Snake Game (Python)
-- Data Analytics Projects (coming soon)
+- Frontend development projects
+- Data Analytics Projects
 
----
 
-## ⚙️ How to Run Locally
-
-### Clone the repository
-
-```bash
-git clone https://github.com/taniya-gupta-95x/My-Portfolio-Website.git
-cd My-Portfolio-Website
-```
