@@ -250,7 +250,7 @@ export const SkillsInfo = [
       image: MyPortfolioLogo,
       tags: ["React JS", "Talwind CSS", "HTML", "CSS" ],
       github: "https://github.com/taniya-gupta-95x/My-Portfolio-Website",
-      webapp: "https://myportfolio-ten-omega-22.vercel.app/",
+      webapp: "https://my-portfolio-website-henna-xi.vercel.app/",
     },
     {
       id: 7,
