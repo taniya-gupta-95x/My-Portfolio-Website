@@ -200,7 +200,7 @@ export const SkillsInfo = [
       description:
         "A GUI-based ChatBot powered by Google Gemini (Generative AI) and built using Python's Tkinter module. This chatbot provides a smooth user interface for chatting with an AI assistant just like ChatGPT — but backed by Google's Gemini model.",
       image: ChatbotLogo,
-      tags: ["Python", "API Key"],
+      tags: ["Python", "Google API Key"],
       github: "https://github.com/taniya-gupta-95x/Google-Generative-AI-Chatbot-using-Python",
       webapp: "",
     },
@@ -248,7 +248,7 @@ export const SkillsInfo = [
       description:
         "An ed-tech platform where users can access tech and coding-related blogs, notes, interview questions, e-books, and premium content with payment integration. Built with full-stack technologies for a seamless learning experience.",
       image: MyPortfolioLogo,
-      tags: ["React JS", "Node.js", "MongoDB", "Express", "Payment Integration"],
+      tags: ["React JS", "Talwind CSS", "HTML", "CSS" ],
       github: "https://github.com/taniya-gupta-95x/My-Portfolio-Website",
       webapp: "https://myportfolio-ten-omega-22.vercel.app/",
     },
