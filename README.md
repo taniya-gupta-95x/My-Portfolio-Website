@@ -5,7 +5,7 @@ This project showcases my skills, projects, and journey as a BCA graduate and as
 
 ## Live Demo
 
-🔗 
+🔗 https://my-portfolio-website-umber-delta.vercel.app/
 
 ---
 
@@ -15,7 +15,6 @@ I am a passionate and dedicated developer with a strong interest in:
 
 - Web Development (Frontend & Full Stack)
 - Data Analytics
-- Problem Solving
 
 I enjoy building user-friendly, responsive, and modern web applications.
 
@@ -27,7 +26,6 @@ I enjoy building user-friendly, responsive, and modern web applications.
 - Tailwind CSS
 - HTML5, CSS3, JavaScript
 - Git & GitHub
-- Basic Data Analytics Tools
 
 ---
 
